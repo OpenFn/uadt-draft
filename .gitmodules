@@ -1,0 +1,12 @@
+[submodule "box"]
+	path = box
+	url = git@github.com:OpenFn/box.git
+[submodule "ui"]
+	path = ui
+	url = git@github.com:OpenFn/ui.git
+[submodule "db"]
+	path = db
+	url = git@github.com:OpenFn/db.git
+[submodule "api"]
+	path = api
+	url = git@github.com:OpenFn/api.git
